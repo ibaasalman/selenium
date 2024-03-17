@@ -1,0 +1,38 @@
+[
+    {
+        "Email" : "titoc63178@fashlend.com",
+		 "Password" : "titoc63178@A",
+		 "ProdName" : "ADIDAS ORIGINAL",
+		 "Country" : "Palestine",
+
+		 "CreditCardNumber" : "4542 9931 9292 2293",
+		 "CSV" : "1234",
+		 "NameONCard" : "John Doe",
+		 "ExpiredDateMonth" : "05",
+		 "ExpiredDateYear" : "23"
+    },
+    {
+        "Email" : "titoc63178@fashlend.com",
+        "Password" : "titoc63178@A",
+        "ProdName" : "Zara ORIGINAL",
+        "Country" : "Cypres",
+
+        "CreditCardNumber" : "4542 9931 9292 2293",
+        "CSV" : "1234",
+        "NameONCard" : "John Doe",
+        "ExpiredDateMonth" : "05",
+        "ExpiredDateYear" : "23"
+    },
+    {
+        "Email" : "titoc63178@fashlend.com",
+        "Password" : "titoc63178@A",
+        "ProdName" : "IPHONE 13 PRO",
+        "Country" : "Egypt",
+
+        "CreditCardNumber" : "4542 9931 9292 2293",
+        "CSV" : "1234",
+        "NameONCard" : "John Doe",
+        "ExpiredDateMonth" : "05",
+        "ExpiredDateYear" : "23"
+    }
+]
